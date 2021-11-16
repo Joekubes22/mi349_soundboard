@@ -1,0 +1,28 @@
+body{
+
+    background-color: #30475e;
+    font-family: 'roberto';
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    text-align: center;
+    overflow: hidden;
+    margin: 0;
+}
+
+
+.button{
+
+
+    background-color: #f05454;
+    border-radius: 6px;
+    border: none; 
+    color: #e8e8e8;
+    margin: 1rem;
+    padding: 1.5rem 3rem;
+    font-size: 1.3rem;
+    cursor: pointer;
+
+}
